@@ -36,13 +36,18 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehanth04&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NehanthG&show_icons=true&theme=radical)
 
 ### 💡 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehanth04&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehanthG&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=NehanthG&theme=radical&no-frame=true&column=4)
 
 ---
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nehanth04)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NehanthG)
